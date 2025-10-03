@@ -36,6 +36,7 @@ public class Contato {
 		this.name = dados.name();
 		this.sobrenome = dados.sobrenome();
 		this.email = dados.email();
+		this.phone = dados.phone();
 		this.cep = dados.cep();
 	}
 	
